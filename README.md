@@ -12,6 +12,12 @@ This repository builds the latest ZMK firmware for the [Taira Keyboard](https://
 6. fork this repository to customize the keymap.
 
 
+## Default layer
+
+Key layout of the default layer, generated from `config/boards/shields/taira/taira.keymap`.
+
+![Taira default keymap layer](docs/keymap.png)
+
 ## Architecture
 
 ```mermaid
